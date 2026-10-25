@@ -102,7 +102,7 @@ These dashboards provide a deeper view of each market.
 
 ## 📂 Project Files
 
-- `Analisis_Mercado_Productos_Latinoamericanos.xlsx` — main analysis workbook
+- [📊 Download Excel workbook](Analisis_Mercado_Productos_Latinoamericanos.xlsx) — complete analysis with tables, formulas, PivotTables, slicers and dashboards.
 - `README.md` — Spanish documentation
 - `README_EN.md` — English documentation
 - `images/` — dashboard screenshots
