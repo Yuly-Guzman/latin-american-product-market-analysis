@@ -87,8 +87,7 @@ The Executive Dashboard consolidates results from all four countries and include
 - opportunity distribution;
 - interactive slicers;
 - products with stronger commercial opportunity.
-
-> A screenshot of the Executive Dashboard will be added here.
+![Dashboard Ejecutivo](dashboard_ejecutivo.png)
 
 ## 🌎 Country-Level Dashboards
 
