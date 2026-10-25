@@ -103,7 +103,7 @@ Estos dashboards permiten profundizar en el análisis de cada mercado.
 
 ## 📂 Archivos del proyecto
 
-- `Analisis_Mercado_Productos_Latinoamericanos.xlsx` — archivo principal del análisis
+- [📊 Descargar archivo Excel](Analisis_Mercado_Productos_Latinoamericanos.xlsx) — análisis completo con tablas, fórmulas, tablas dinámicas, segmentadores y dashboards.
 - `README.md` — documentación en español
 - `README_EN.md` — documentación en inglés
 - `images/` — capturas de los dashboards
