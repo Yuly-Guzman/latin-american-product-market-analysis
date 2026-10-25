@@ -88,7 +88,7 @@ El Dashboard Ejecutivo consolida los resultados de los cuatro países e incluye:
 - segmentadores interactivos;
 - productos con mayor oportunidad comercial.
 
-> Próximamente se añadirá aquí la captura del Dashboard Ejecutivo.
+![Dashboard Ejecutivo](dashboard_ejecutivo.png).
 
 ## 🌎 Dashboards por país
 
